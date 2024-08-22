@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @medagoda
+- 👋 Hi, I’m Nimesha Dilshan Medagoda
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning in Faculty of Computing and Technology in University of Kelaniya
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me nimesha2020kalutara@gmail.com and www.linkedin.com/in/nimesha-dilshan
-- 😄 Pronouns: Nothing
+- 😄 Pronouns: just say Medagoda
 - ⚡ Fun fact: I am series everytime...😄
 
 <!---

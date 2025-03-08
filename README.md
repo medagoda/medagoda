@@ -1,4 +1,4 @@
-![image alt](https://media.licdn.com/dms/image/v2/D5616AQH1XF0jaELN_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353522643?e=1746662400&v=beta&t=HNZbJfM27uD6fOy4wEinRMZdFpOmT4kBasTzuL4q7uI)
+![image alt](https://media.licdn.com/dms/image/v2/D5616AQEm91vA9AIqiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719855149801?e=1746662400&v=beta&t=z8rnQhdV0JowMy4ZS1nFp_3Npi-geZ8aA1jto3B1w_U)
 
 <h1 align="center">Hi 👋, I'm Nimesha Dilshan Medagoda</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from Sri Lanka</h3>

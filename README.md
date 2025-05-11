@@ -46,7 +46,23 @@ Backend:
 <hr/>
 
 🔍 Data Science & Machine Learning:
-<p align="left"> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a> <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a> </p>
+<p align="left"> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a> <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a> <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+ <!-- MLflow -->
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="80" height="30"/>
+  </a>
+
+  <!-- DVC -->
+  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://dvc.org/static/logo.svg" alt="dvc" width="60" height="30"/>
+  </a>
+
+  <!-- DagsHub -->
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+    <img src="https://docs.dagshub.com/assets/images/logo-dark.svg" alt="dagshub" width="80" height="30"/>
+  </a>
+
+</p>
 <hr/>
 
 🛠️ DevOps & Tools:

@@ -1,7 +1,7 @@
 ![image alt](CP.png)
 
 <h1 align="center">Hi 👋, I'm Nimesha Dilshan Medagoda</h1>
-<h3 align="center">A Passionate Data Science Enthusiast from Sri Lanka</h3>
+<h3 align="center">A Passionate Data Science, AI & ML Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medagoda&label=Profile%20views&color=0e75b6&style=flat" alt="medagoda" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nimesha2020kalutara@gmail.com**
 
-- ⚡ Fun fact **I am series everytime...😄**
+- ⚡ Fun fact **Bananas are berries, but strawberries aren't! 🍌🍓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 ![image alt](CP.png)
 
 <h1 align="center">Hi 👋, I'm Nimesha Dilshan Medagoda</h1>
-<h3 align="center">I am a Full Stack Developer. Data Science, AI & ML Enthusiast from Sri Lanka</h3>
+<h3 align="center">Full Stack Developer | Passionate About Data Science & AI/ML | Tech Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medagoda&label=Profile%20views&color=0e75b6&style=flat" alt="medagoda" /> </p>
 

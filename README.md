@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medagoda" alt="medagoda" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data, Machine Learning, MLops**
+- 🌱 I’m currently learning **SpringBoot, MERN Stack,Big Data, Machine Learning, MLops**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
